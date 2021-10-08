@@ -1,2 +1,2 @@
-value=15
-value1=12
+print("Area of rectangle:",R1.area())
+print("Area of circle:",C1.area())
